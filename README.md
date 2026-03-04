@@ -15,6 +15,3 @@ simulations to full-stack healthcare apps.
 - **Bones-and-All** — Full-stack mobile health application (Dart · Node.js · PostgreSQL)
 - **Escape Sequence** — Multiplayer card game with custom rules (Java · Swing)
 - **ShiftMark** - Android and Samsung Galaxy Watch app for nurses to document shift activities via instant timestamping (Jetpack Compose · Kolin)
-
-📍 Quad Cities, IL  
-🔗 [LinkedIn]((https://www.linkedin.com/in/kaitlyn-morris-)
