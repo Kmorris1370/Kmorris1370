@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kaitlyn 👋
 
-<!--
-**Kmorris1370/Kmorris1370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Senior at Western Illinois University graduating May 2026, 
+minor in Cybersecurity and AWS Cloud Practitioner certified. 
+I enjoy building things that solve real problems — from 3D graphics 
+simulations to full-stack healthcare apps.
 
-Here are some ideas to get you started:
+## Tech Stack
+**Languages:** Java · JavaScript/Node.js · Python · Bash · Dart · Kolin
+**Databases:** PostgreSQL · Oracle · SQL  
+**Tools:** Git · Jira · Notion · Draw.io  
+**OS:** Linux/Unix · Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- **Bones-and-All** — Full-stack mobile health application (Dart · Node.js · PostgreSQL)
+- **Escape Sequence** — Multiplayer card game with custom rules (Java · Swing)
+- **ShiftMark** - Android and Samsung Galaxy Watch app for nurses to document shift activities via instant timestamping (Jetpack Compose · Kolin)
+
+📍 Quad Cities, IL  
+🔗 [LinkedIn]((https://www.linkedin.com/in/kaitlyn-morris-)
