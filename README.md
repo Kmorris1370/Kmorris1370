@@ -6,7 +6,7 @@ I enjoy building things that solve real problems — from 3D graphics
 simulations to full-stack healthcare apps.
 
 ## Tech Stack
-**Languages:** Java · JavaScript/Node.js · Python · Bash · Dart · Kotlin
+**Languages:** Java · JavaScript/Node.js · Python · Bash · Dart · Kotlin    
 **Databases:** PostgreSQL · Oracle · SQL  
 **Tools:** Git · Jira · Notion · Draw.io  
 **OS:** Linux/Unix · Windows
