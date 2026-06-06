@@ -1,7 +1,7 @@
 # Hi, I'm Kaitlyn 
 CS graduate from Western Illinois University (May 2026),
 minor in Cybersecurity. I enjoy building things that solve real
-problems — from 3D graphics simulations to full-stack healthcare apps.
+problems from 3D graphics simulations to full-stack healthcare apps.
 
 ## Tech Stack
 **Languages:** Java · JavaScript/Node.js · Python · Bash · Dart · Kotlin  
